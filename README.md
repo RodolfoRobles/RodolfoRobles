@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working in ... Arkus Nexus
+- 🌱 I’m currently learning ... Kotlin
+- 💬 Ask me about ...Photography
+
 <!--
 **RodolfoRobles/RodolfoRobles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
