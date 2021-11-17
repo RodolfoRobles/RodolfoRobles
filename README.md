@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working in ... Arkus Nexus
+- 🔭 I’m currently working in ... Delta
 - 🌱 I’m currently learning ... Kotlin
 - 💬 Ask me about ...Photography
 
