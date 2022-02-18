@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working in ... Delta
-- 🌱 I’m currently learning ... Kotlin
+- 🌱 I’m currently learning ... Kotlin, AWS, NodeJS
 - 💬 Ask me about ...Photography
 
 <!--
